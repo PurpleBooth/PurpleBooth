@@ -1,5 +1,5 @@
 ![Hello, I am
-Billie](https://media.githubusercontent.com/media/PurpleBooth/PurpleBooth/main/hello.png "Pink!")
+Billie](https://raw.githubusercontent.com/PurpleBooth/PurpleBooth/main/hello.png "Pink!")
 
 > She/Her/Hers
 
@@ -54,3 +54,4 @@ below. I mostly tweet about tech-y stuff and sometimes trans stuff.
 
 -   [@PurpleBooth - Twitter](https://twitter.com/PurpleBooth)
 -   [@PurpleBooth - Mastodon](https://mastodon.technology/@PurpleBooth)
+
