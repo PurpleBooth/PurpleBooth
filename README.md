@@ -1,6 +1,4 @@
-<p align="center">
-    <img alt="Hello, my name is Billie" src="./Hello.png">
-</p>
+# Hello, I am Billie.
 
 > She/Her/Hers
 
