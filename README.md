@@ -54,4 +54,3 @@ below. I mostly tweet about tech-y stuff and sometimes trans stuff.
 
 -   [@PurpleBooth - Twitter](https://twitter.com/PurpleBooth)
 -   [@PurpleBooth - Mastodon](https://mastodon.technology/@PurpleBooth)
-
