@@ -53,4 +53,4 @@ If you want to read the terrible things I tweet and toot, you can follow
 below. I mostly tweet about tech-y stuff and sometimes trans stuff.
 
 -   [@PurpleBooth - Twitter](https://twitter.com/PurpleBooth)
--   [@PurpleBooth - Mastodon](https://fosstodon.org/@PurpleBooth)
+-   <a rel="me" href="https://fosstodon.org/@PurpleBooth">@PurpleBooth - Mastodon</a>
