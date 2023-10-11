@@ -1,8 +1,6 @@
 ![Hello, I am
 Billie](https://raw.githubusercontent.com/PurpleBooth/PurpleBooth/main/hello.png "Pink!")
 
-> She/Her/Hers
-
 ![A girl with curly hair (who is quite tall) with a red t-shirt with the
 Armakuni logo on, headphones around her neck and a pinafore dress on,
 standing under a plane suspended from the ceiling at Agile Scotland at
